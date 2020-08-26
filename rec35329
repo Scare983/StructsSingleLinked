@@ -1,0 +1,13 @@
+Linnane_assignment1/:
+total 40
+-rw-r--r-- 1 ugrad  498 Feb 16 14:46 DataType.cpp
+-rw-r--r-- 1 ugrad  212 Feb 14 21:55 DataType.h
+-rw-r--r-- 1 ugrad   28 Feb 15 16:24 input.txt
+-rw-r--r-- 1 ugrad  149 Feb 15 20:33 ListNode.h
+-rw-r--r-- 1 ugrad 4014 Feb 16 14:48 Main.cpp
+-rw-r--r-- 1 ugrad  415 Feb 14 22:50 Makefile
+-rw-r--r-- 1 ugrad  256 Feb 17 17:07 Readme.txt
+-rw-r--r-- 1 ugrad    0 Feb 17 17:08 rec35329
+-rw-r--r-- 1 ugrad 5117 Feb 17 16:58 SortedLinkedList.cpp
+-rw-r--r-- 1 ugrad  453 Feb 17 16:09 SortedLinkedList.h
+/home/ugrads/klinnane/cs2720b/Linnane_assignment1/:/home/work/cs2720b
